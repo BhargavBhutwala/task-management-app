@@ -1,6 +1,27 @@
 # Task Management App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This repository contains a task management application built using React.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Introduction
+
+The Task Management App is a web-based application designed to help users organize their tasks effectively. It allows users to create, edit, delete tasks, and mark tasks as completed. The application is built using React, leveraging components to manage state and provide a responsive user interface.
+
+## Features
+
+- **Task Management**: Create, edit, delete tasks.
+- **Task Status**: Mark tasks as completed or pending.
+- **Sorting**: Sort tasks by title, end date and status.
+- **User Interface**: Responsive and user-friendly design.
 
 ## Available Scripts
 
