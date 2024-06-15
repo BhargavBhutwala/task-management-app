@@ -60,6 +60,22 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
+## Code Structure and Design Choices
+
+The project follows a modular structure, organizing components and utilities into separate directories for clarity and maintainability. Here are some design choices:
+
+- **Component-Based Architecture**: Each UI component (e.g., TaskForm, TaskList) encapsulates its logic and UI, promoting reusability.
+- **State Management**: Uses React's useState and useEffect hooks for managing component-level state and effects.
+- **Styling**: Utilizes Bootstrap for responsive design and custom CSS for additional styling.
+- **Testing**: Implements unit tests using Jest and React Testing Library to ensure component functionality and user interaction.
+
+## Technologies Used
+
+- **React**: Frontend JavaScript library for building user interfaces.
+- **HTML/CSS**: Structure and styling of the application.
+- **JavaScript (ES6+)**: Programming language for application logic.
+- **Bootstrap**: CSS framework for responsive design.
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
