@@ -7,10 +7,9 @@ This repository contains a task management application built using React.
 - [Introduction](#introduction)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
+- [Code Structure and Design](#CodeStructureandDesign)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
